@@ -1,4 +1,4 @@
 #girls-und-panzer
 
-### Thoughts and Essays about Tsutomu Mizushima's `Girls und Panzer'.
+#### Thoughts and Essays about Tsutomu Mizushima's `Girls und Panzer'.
 
