@@ -1,0 +1,23 @@
+{
+  "name": "girls-und-panzer",
+  "version": "0.1.0",
+  "description": "#### Thoughts and Essays about Tsutomu Mizushima's `Girls und Panzer'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/girls-und-panzer.git"
+  },
+  "keywords": [
+    "girls und panzer"
+  ],
+  "private": true,
+  "author": "Steve Terpe <sterpe@rubiconproject.com> (https://github.rp-core.com/sterpe)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterpe/girls-und-panzer/issues"
+  },
+  "homepage": "https://github.com/sterpe/girls-und-panzer#readme"
+}
