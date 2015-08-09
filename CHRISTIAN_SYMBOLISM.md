@@ -6,6 +6,11 @@ The Ooari uniform is a white sailor fuku (dress) with green skirt.
 The dickey is green with a prominent white Christian cross emblazoned
 on it at a height that reminds of necklace.
 
+White, in Christian tradition, is the color of purity and God's
+uncreated light, while green is the color of Pentecost (the receiving
+of the Holy Spirit) and the feasts of the Holy Cross.  It is the
+color of plants and symbolizes new life and renewal.
+
 The Japanese Kanjii/Chinese characters 大洗 have the literal meaning
 of \`Big Wash'.  This is a real place in Japan, a small fishing
 village.  Interestingly, \`洗' can also be a reference to \`baptism'.
