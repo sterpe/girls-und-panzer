@@ -34,6 +34,6 @@ reputation.
 Read more:
 http://tvtropes.org/pmwiki/pmwiki.php/Anime/GirlsUndPanzer#ixzz3i3F2k7hw
 
-##### Table of Contents
+### Table of Contents
 
 [_Christian Symbolism in \`Girls und Panzer'_](CHRISTIAN_SYMBOLISM.md)
