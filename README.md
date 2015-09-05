@@ -1,6 +1,6 @@
 #girls-und-panzer
 
-#### Thoughts and Essays on `Girls und Panzer'.
+#### Thoughts on `Girls und Panzer'.
 
 ![Girls und Panzer](images/Case%20Cover%20Back%20Inner.jpg "Girls
 und Panzer")
